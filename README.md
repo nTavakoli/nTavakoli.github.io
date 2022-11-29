@@ -20,7 +20,7 @@ The datasets used in my project are:
 ##### Soil Moisture
 This product provides global merged surface soil moisture datasets with NetCDF format at daily temporal resolution from 1978 to 2020 and spatial resolution of 0.25°; however, I will narrow my analysis only from 2011-2020 in the global domain due to the size of this dataset.
 
-[Link to dataset description] (https://esa-soilmoisture-cci.org/)
+[Link to dataset description](https://esa-soilmoisture-cci.org/)
 
 #### TerraClimate
 
