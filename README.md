@@ -81,7 +81,7 @@ A panel plot of monthly anomalies of SM and SOI index shows that the largest amo
 
 
 
-[Link](https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Monthly%20anomalies%20of%20SOI%20%26%20AET%20and%20SM.ipynb)
+[Jupyter notebook link](https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Monthly%20anomalies%20of%20SOI%20%26%20AET%20and%20SM.ipynb)
 
 ### Composite AET and SM Anomalies during ENSO
 
@@ -93,12 +93,11 @@ During La Niña, positive composite with SOI dominates over most of Australia, a
 
 ![Composite Actual Evapotranspiration Anomalies during ENSO](https://user-images.githubusercontent.com/114028224/204168393-1c3a4d05-50a4-45b3-a2c7-74225f76bf4a.png)
 
+[Jupyter notebook link](https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_AET_SOI.ipynb)
 
 ![Composite Soil Moisture Anomalies during ENSO](https://user-images.githubusercontent.com/114028224/204169649-21654981-1dc6-4f27-a5b7-f806184d8f86.png)
 
-[Link](https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_AET_SOI.ipynb)
-
-[Link](https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_SM_SOI.ipynb)
+[Jupyter notebook link](https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_SM_SOI.ipynb)
 
 ### Regression Analysis 
 
@@ -116,7 +115,7 @@ It should be noted that the strongest positive slope between soil moisture and S
 
 
 
-[Link](https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb)
+[Jupyter notebook link](https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb)
 
 ### Correlation Analysis
 
@@ -132,7 +131,7 @@ During El Niño, there is typically a decrease in the amount of rain falling ove
 
 ![Correlation Coefficient between SOI and Soil Moisture Anomalies](https://user-images.githubusercontent.com/114028224/204307078-6c9a9ecc-7f4d-4682-8fbd-81b73cc66d32.png)
 
-[Link](https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb)
+[Jupyter notebook link](https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb)
 
 ### Summary
 
