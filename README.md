@@ -30,7 +30,7 @@ TerraClimate is a dataset of monthly climate and climatic water balance for glob
 
 TerraClimate uses climatically aided interpolation, combining high-spatial resolution climatological normals from the WorldClim dataset, with coarser spatial resolution, but time-varying data from CRU Ts4.0 and the Japanese 55-year Reanalysis (JRA55). Conceptually, the procedure applies interpolated time-varying anomalies from CRU Ts4.0/JRA55 to the high-spatial-resolution climatology of WorldClim to create a high-spatial-resolution dataset that covers a broader temporal record.
 
-Link to dataset description: https://www.climatologylab.org/terraclimate.html
+[Link to dataset description](https://www.climatologylab.org/terraclimate.html)
 
 #### Southern Oscillation Index (SOI) 
 
@@ -45,20 +45,20 @@ In this project, El Niño months are defined as those with values of SOI less th
 ![Southern Oscillation Index for 2011-2020_2](https://user-images.githubusercontent.com/114028224/204168199-257597af-b4eb-4325-9bf9-8c8436098245.png)
 
 
-Link to dataset description: https://www.ncei.noaa.gov/access/monitoring/enso/soi
+[Link to dataset description](https://www.ncei.noaa.gov/access/monitoring/enso/soi)
 
 ### Results and Analysis
 Project Notebook via GitHub located within my "CLIM680_project" repository includes a series of jupyter notebooks containing all the labeled and commented code used in my analysis. Each topic will be discussed separately, along with a link to each relevant notebook.
 
-Link: https://github.com/nTavakoli/CLIM680-project
+[Link](https://github.com/nTavakoli/CLIM680-project)
 
 ### Functions
 
 Two sets of functions were created to calculate climatologies and anomalies and or labeling plots.
 
-Link to xyticks function: https://github.com/nTavakoli/CLIM680-project/blob/main/Functions/Defining_xricks_yticks_function.ipynb
+[Link to xyticks function](https://github.com/nTavakoli/CLIM680-project/blob/main/Functions/Defining_xricks_yticks_function.ipynb)
 
-Link to climo,anoms function: https://github.com/nTavakoli/CLIM680-project/blob/main/Functions/climo_anoms_function.ipynb
+[Link to climo,anoms function](https://github.com/nTavakoli/CLIM680-project/blob/main/Functions/climo_anoms_function.ipynb)
 
 ### Conda Environment
 
@@ -67,7 +67,7 @@ All environments used in this project have been provided in the environment.yml 
 ### Figures
 The figures from my project notebook are saved in a seperate 'figures' subdirectory, as well as shown in the project notebook.
 
-Link: https://github.com/nTavakoli/CLIM680_Project/tree/main/Figures
+[Link](https://github.com/nTavakoli/CLIM680_Project/tree/main/Figures)
 
 ### Climatology and Anomalies
 
@@ -81,7 +81,7 @@ A panel plot of monthly anomalies of SM and SOI index shows that the largest amo
 
 
 
-Link: https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Monthly%20anomalies%20of%20SOI%20%26%20AET%20and%20SM.ipynb
+[Link](https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Monthly%20anomalies%20of%20SOI%20%26%20AET%20and%20SM.ipynb)
 
 ### Composite AET and SM Anomalies during ENSO
 
@@ -96,9 +96,9 @@ During La Niña, positive composite with SOI dominates over most of Australia, a
 
 ![Composite Soil Moisture Anomalies during ENSO](https://user-images.githubusercontent.com/114028224/204169649-21654981-1dc6-4f27-a5b7-f806184d8f86.png)
 
-Link: https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_AET_SOI.ipynb
+[Link](https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_AET_SOI.ipynb)
 
-Link: https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_SM_SOI.ipynb
+[Link](https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_SM_SOI.ipynb)
 
 ### Regression Analysis 
 
@@ -116,7 +116,7 @@ It should be noted that the strongest positive slope between soil moisture and S
 
 
 
-Link: https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb
+[Link](https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb)
 
 ### Correlation Analysis
 
@@ -132,7 +132,7 @@ During El Niño, there is typically a decrease in the amount of rain falling ove
 
 ![Correlation Coefficient between SOI and Soil Moisture Anomalies](https://user-images.githubusercontent.com/114028224/204307078-6c9a9ecc-7f4d-4682-8fbd-81b73cc66d32.png)
 
-Link: https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb
+[Link](https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb)
 
 ### Summary
 
