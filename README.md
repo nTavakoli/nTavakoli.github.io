@@ -103,7 +103,7 @@ During La Niña, positive composite of AET with SOI dominates over most of Austr
 
 For linear regression analysis, anomalies were once again calculated for each of the two variables, including soil moisture and actual evapotranspiration.
 
-First, the regression was applied between the SOI and actual evapotranspiration anomaly time series, see the following. The regression coefficient is positive in most of Australia, except in the northeast and some part of central, however, a strong positive slope between the SOI and actual evapotranspiration can be observed in the western part of Australia, with statistically significant regression coefficients at the 95% confidence level indicated by the hatchings.
+First, the regression was applied between the SOI and actual evapotranspiration anomaly time series, see the following. The regression coefficient is positive in most of Australia, except in the northeast and some part of central, however, a strong positive slope between the SOI and actual evapotranspiration can be observed in the western part of Australia, with statistically significant regression coefficients at the 95% confidence level indicated by dots.
 
 ![Regression between SOI and AET Anomalies](https://user-images.githubusercontent.com/114028224/204174092-89af5a0b-ca69-4f5c-a5cf-4260105b8ea1.png)
 
