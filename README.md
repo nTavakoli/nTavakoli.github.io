@@ -36,9 +36,9 @@ TerraClimate uses climatically aided interpolation, combining high-spatial resol
 
 SOI Index is the monthly index provided by NOAA (National Oceanic and Atmospheric Administration) from 1951 to the present.
 
-In this project, El Niño months are defined as those with values of SOI less than the 15th percentile of the SOI distribution; the value of the 15th percentile of SOI is -0.73. Moreover, La Niña months are considered as those with values of SOI more than the 85th percentile of the SOI distribution; the value of the 85th percentile of SOI is 1. Neutral condition is also defined as those with values of SOI between -0.73 and 1.
-
 ![Southern Oscillation Index for 2011-2020](https://user-images.githubusercontent.com/114028224/204163634-65e776a5-d8ac-486a-a5d6-685b1861e2ff.png)
+
+In this project, El Niño months are defined as those with values of SOI less than the 15th percentile of the SOI distribution; the value of the 15th percentile of SOI is -0.73. Moreover, La Niña months are considered as those with values of SOI more than the 85th percentile of the SOI distribution; the value of the 85th percentile of SOI is 1. Neutral condition is also defined as those with values of SOI between -0.73 and 1.
 
 ![Southern Oscillation Index for 2011-2020_1](https://user-images.githubusercontent.com/114028224/204168168-bc13fec1-1c1d-4729-bb44-64a2a38fb2c7.png)
 
