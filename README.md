@@ -16,9 +16,9 @@ The hydrological cycle is expected to intensify in response to global warming wi
 ### Data
 The datasets used in my project are:
 
-#### ESA Climate Change Initiative (CCI) SM v06.1
+#### ESA Climate Change Initiative (CCI) SM v07.1
 ##### Soil Moisture
-This product provides global merged surface soil moisture datasets with NetCDF format at daily temporal resolution from 1978 to 2020 and spatial resolution of 0.25°; however, I will narrow my analysis only from 2011-2020 in the global domain due to the size of this dataset.
+This product provides global merged surface soil moisture datasets with NetCDF format at daily temporal resolution from 1978 to 2020 and spatial resolution of 0.25°; however, I will narrow my analysis only from 2011-2020 in Australia due to the size of this dataset.
 
 [Link to dataset description](https://esa-soilmoisture-cci.org/)
 
